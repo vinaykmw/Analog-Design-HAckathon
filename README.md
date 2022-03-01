@@ -1,2 +1,2 @@
-# Analog-Design-HAckathon
+# Analog-Design-Hackathon
 Dynamic flip flop
