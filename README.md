@@ -6,3 +6,5 @@ Dynamic flip flop
 ###### The smallest heading
 
 
+![Caption of image](C_2_MOS.JPG)
+
