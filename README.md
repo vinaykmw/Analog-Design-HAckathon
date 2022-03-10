@@ -8,6 +8,7 @@ True single phase D flip flop and C2MOS based flip flop are designed using 28nm 
 
 ## TRUE Single Phase D Flip Flop
 
+TSPC suffers from leakage problems and spikes at output.
 Following is circuit schemtic of TSPC DFF on Synopsys tool
 ![TSPC](TSPC_CIRCUIT.JPG)
 
@@ -16,6 +17,7 @@ Following is output of TSPC DFF on Synopsys tool
 ![TSPC](TSPC_RESULT.JPG)
 
 
+## C2MOS D Flip Flop
 
 Following is circuit schemtic of C2MOS DFF on Synopsys tool
 ![C2MOS](C2MOS_OUT_SY.JPG)
